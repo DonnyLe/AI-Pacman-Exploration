@@ -1,7 +1,6 @@
 # Pac-Man: Through an Artificial Intelligence Lens
-### CS 4100: Team 14 Final Project
 
-This repository was forked from @tadowney 's GitHub repo linked [here](https://github.com/tadowney/ai_pacman).  The work seen here was collaboratively developed by John Kraunelis, Riya Roy, Donny Le, Kenneth Fan, and Swar Kewalia - Team 14 of Northeastern University's CS 4100: Artificial Intelligence course.  This course was taught by Professor Rajagopal Venkatesaramani in the Khoury College of Computer Sciences.
+This repository was forked from @tadowney 's GitHub repo linked [here](https://github.com/tadowney/ai_pacman).  The work seen here was collaboratively developed by John Kraunelis, Riya Roy, Donny Le, Kenneth Fan, and Swar Kewalia. 
 
 ## Introduction
 
